@@ -1,0 +1,3 @@
+<?php
+// Cria novo utilizador
+?>

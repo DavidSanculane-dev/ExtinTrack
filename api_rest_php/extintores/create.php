@@ -1,0 +1,3 @@
+<?php
+// Regista novo extintor
+?>
