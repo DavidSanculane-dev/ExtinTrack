@@ -1,5 +1,5 @@
 
-# 📘 Documento Técnico: Regras de Negócio do Sistema ExtinCheck
+# 📘 Documento Técnico: Regras de Negócio do Sistema ExtinTrack
 
 ## 🎯 Objetivos do Sistema
 
